@@ -14,8 +14,13 @@ Throughout this tutorial, try and pay attention to _where_ "things" are.
 * What network am I on (the public Internet? or a private link on GENI?)?
 
 
-# "Hello World" of the Bash shell
+## Note: Plaintext version
 
+A plaintext (Markdown) version of this handout is available at
+
+[https://github.com/ffund/scientific-computing-workshop/blob/master/linux-for-geni-users.md](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-for-geni-users.md)
+
+# "Hello World" of the Bash shell
 
 
 ## Accessing a remote shell
