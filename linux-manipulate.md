@@ -41,7 +41,7 @@ You can also specify the number of lines to see with either command, with e.g.
 
 ```
 head --lines=5 book.txt
-tail --lines=10 tail.txt
+tail --lines=10 book.txt
 ```
 
 To page through one line of output at a time, use
