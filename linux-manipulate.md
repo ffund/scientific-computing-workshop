@@ -11,9 +11,11 @@ I/O redirection with `>` and `>>`, and using `|`
 
 We'll often want to see more or less of a command that has a lot of output.
 
-To see how this works, let's download a large text file - a book from 
-Project Gutenberg. In a browser, visit http://gutenberg.org, pick a book, 
-get the URL of its text version, and use `wget` to download it in the shell.
+To see how this works, let's download a large text file - a public domain book. 
+In a browser, visit http://witestlab.poly.edu/books/, pick a book, 
+get the URL of its text version (e.g.: right click and "Copy Link Address" or 
+similar), and use `wget` to download it in the shell.
+
 Rename it to `book.txt` using the `mv` command.
 
 If you run 

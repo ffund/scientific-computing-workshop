@@ -172,13 +172,16 @@ images), all from a web browser. We have set up a Python notebook server that
 you can access for the duration of this workshop.
 
 Open a browser. (Chrome is recommended; some students have had problems 
-trying to use our notebook server with Safari.) In the browser, visit the URL: 
-https://server.camp.ch-geni-net.instageni.nysernet.org/
+trying to use our notebook server with Safari.) In the browser, visit the URL
+for the server you're working with today:
+
+* https://server.camp.ch-geni-net.instageni.northwestern.edu
+* https://server.camp.ch-geni-net.genirack.nyu.edu 
 
 You may have to tell your browser to add an exception to allow access to this 
 site, even though it uses an untrusted certificate. When you reach the login
-screen, log in with your net ID and the password that was distributed 
-last week. 
+screen, log in with your net ID and the same password that you use to SSH 
+into the server. 
 
 When you log in, you will be "located" in your home directory. 
 To start a new Python 3 notebook there, choose \menu{New > Python 3}. 
@@ -194,3 +197,10 @@ and click the \menu{\ForwardToEnd} button or \menu{Cell > Run Cells}
 to run the code in that cell.
 
 ![Running "Hello, world" in a Python notebook](images/jupyter-hello.png)
+
+Two nice features of Python notebooks are:
+
+* You can keep the code and results of its execution together,
+* You can add Markdown cells - use \menu{Cell > Cell Type > Markdown} -
+to add an explanation of your work, making it 
+a complete document.

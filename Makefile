@@ -12,13 +12,18 @@ LNXFILES+=linux-scripts.pdf
 LNXFILES+=linux-shell.pdf
 
 EXTRA=warmup.pdf
+EXTRA+=markdown.pdf
 
 PYFILES=python-hello.pdf
+PYFILES+=python-loops-conditionals.pdf
 PYFILES+=python-read-in-data.pdf
 PYFILES+=python-lists-arrays.pdf
 PYFILES+=python-citibike.pdf
+PYFILES+=python-libraries.pdf
 
-PANDOCFLAGS=--latex-engine=xelatex \
+GENIFILES=linux-for-geni-users.pdf
+
+PANDOCFLAGS=--latex-engine=xelatex\
          -V mainfont='Fira Sans' \
          -V geometry:margin=1in \
          --listings -H style/listings-setup.tex -H style/keystroke-setup.tex -H style/includes.tex
@@ -33,6 +38,8 @@ linux: $(LNXFILES)
 git: $(GITFILES)
 
 python: $(PYFILES)
+
+geni: $(GENIFILES)
 
 clean: 
 	rm -f *.pdf
