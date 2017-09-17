@@ -6,38 +6,36 @@ laptop, then try to ask and answer _another_ question.
 
 ## Your task
 
-We will now undertake a significant independent project. Your task is to:
+At this stage, you are ready to undertake an independent project using 
+everything you have learned this week and last week. Your task is to:
 
 * Define an interesting question that one might ask and answer based on the 
-Citi Bike data set.
-* Use either the Message Box or the story arc approach to explain your project.
-Write a short paragraph based on your Message Box or story arc, and include
-it in the README file that's in the Github repository you created at 
-the beginning of today's session.
-* Write Python code to find the answer to the question that you posed.
+Citi Bike data set (see some examples on the back of this page).
+* In the README file that's in the Github repository you created at 
+the beginning of today's session, write a short description of the question 
+you intend to answer.
+* Write a Python script or notebook to find the answer to the question that you posed.
 * Commit your Python code to the Github repository you created at the beginning
 of today's session.
 * In your README, explain what the answer to your question was, and 
 how you found it.
+* Include visualizations that help the reader understand the question and 
+answer. (Use `matplotlib`.)
 
-Of course, the instructors are here to help you as you work on this significant, 
-open-ended project :)
-
+Of course, the instructors are here to help you as you work on this 
+open-ended project :) But your main resource will be the Internet - Python
+is a very popular language, and has great documentation online.
 
 Some potential questions you might ask are listed on the back of this page, 
 but you're not in any way limited to those!
-
-The `matplotlib` library is often used to plot or visualize results in Python.
-If you want to create a visual answer to your question, please refer to the 
-`matplotlib` documentation.
 
 \pagebreak
 
 ## Potential questions
 
-* Which stations are trending up in popularity? Which are trending down? (You might want to look at more than 2016 for this)
+* Which stations are trending up in popularity? Which are trending down? (You might want to look at more than just 2016 for this)
 * Which stations are the least balanced (more bikes leaving than entering, or vice versa)?
-* Which stations support the youngest bikers? The oldest? (
+* Which stations support the youngest bikers? The oldest?
 * Which are the starting stations that start bikers off on the longest trips (in terms of trip duration)?
 * What are the most popular start-end station pairs?
 * What is the most popular hour of the day to start a trip on weekdays? Weekends? 
