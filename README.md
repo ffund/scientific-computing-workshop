@@ -36,9 +36,9 @@ The lessons for Day 1 are:
 2. [Navigating the filesystem](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-navigating.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_cVNleER1UTQ3ZXM/view?usp=sharing))
 3. [Working with files and directories](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-files-directories.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_MjViTW91aDVYelE/view?usp=sharing))
 4. [Manipulating output of a command](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-manipulate.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_VkNONTY4UzBnRWM/view?usp=sharing))
-5. Writing shell scripts](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-scripts.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_MTRCeGJ0YVlhWWc/view?usp=sharing))
-6. Loops and conditionals](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-loops-conditionals.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_WU5FTVVBdy1Vdkk/view?usp=sharing))
-7. Putting it all together](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-assignment.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_S2FvZ2dtZDN1QVE/view?usp=sharing))
+5. [Writing shell scripts](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-scripts.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_MTRCeGJ0YVlhWWc/view?usp=sharing))
+6. [Loops and conditionals](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-loops-conditionals.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_WU5FTVVBdy1Vdkk/view?usp=sharing))
+7. [Putting it all together](https://github.com/ffund/scientific-computing-workshop/blob/master/linux-assignment.md) ([PDF](https://drive.google.com/file/d/0B7IVJC7pkQz_S2FvZ2dtZDN1QVE/view?usp=sharing))
 
 and the lessons for Day 2 are:
 
